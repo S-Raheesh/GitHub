@@ -1,0 +1,14 @@
+body{
+  background-position: center;
+  background-size: cover;
+}
+canvas{
+    border: 10px solid white;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 100px;
+    
+}
+.heading{
+    width: 100%;
+}
